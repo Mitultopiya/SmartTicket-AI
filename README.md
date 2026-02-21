@@ -99,16 +99,11 @@ SmartTicket-AI
 ---
 
 ## 🖥️ Local Setup
-1️⃣ Clone the Repo
-```
-git clone https://github.com/rajveer-09/SmartTicket-AI.git
-cd SmartTicket-AI/BACKEND
-```
-## 2️⃣ Install Dependencies
+## Install Dependencies
 ```
 npm install
 ```
-### 3️⃣ Configure .env
+### Configure .env
 ```
 MONGO_URI=
 PORT=
@@ -129,7 +124,7 @@ INGGEST_SIGNING_KEY=
 ✅ Don't forget to add .env in .gitignore
 
 ---
-### 4️⃣ Start the Server
+### Start the Server
 ```
 npm start
 ```
@@ -146,16 +141,6 @@ Create a new feature branch
 Raise a Pull Request
 ```
 ---
-### 👨‍💻 Author
-- Rajveer Sharma
-
-- [GitHub](https://github.com/rajveer-09)
-- [LinkedIn](https://www.linkedin.com/in/rajveer-sharma933/)
-
----
-
-### 📄 License
-- MIT License
 
 ---
 ### 🙌 Special Thanks
